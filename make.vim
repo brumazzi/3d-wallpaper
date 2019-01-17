@@ -1,4 +1,5 @@
 " vim make file generator
+" download vim compiler in 'https://github.com/brumazzi/Vim-Code-Compile.git'
 
 let g:make = "cmake"
 let g:make_version = "3.13.2"
